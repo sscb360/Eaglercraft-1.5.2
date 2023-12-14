@@ -18,7 +18,7 @@
 
 <p>
 <h1>Servers</h1>
-Go to <a>href=[UNAVAILABLE]</a> to get <b>a list of Multiplayer Server Adresses.</b>
+Go to <a>[UNAVAILABLE]</a> to get a list of Multiplayer Server Adresses.
 </p>
 
 <h1>IMPORTANT!</h1>
